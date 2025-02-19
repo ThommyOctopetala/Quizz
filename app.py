@@ -239,4 +239,4 @@ if st.session_state.question is not None:
     st.markdown(st.session_state.feedback)
     
 st.markdown("---")
-st.markdown("<div style='font-size:10px; text-align:center; color:gray;'>Crédits : SOUYRIS Thomas</div>", unsafe_allow_html=True)
+st.markdown("<div style='font-size:10px; text-align:center; color:gray;'>Crédits : SOUYRIS Thomas / Photos: FloreAlpes</div>", unsafe_allow_html=True)
